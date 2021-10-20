@@ -1,0 +1,35 @@
+.navbar{
+    background-color: rgb(62, 181, 228);
+}
+.container{
+    max-width: 900px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.sub-container{
+    margin-top: 10px;
+}
+
+table{
+    width: 100%;
+}
+
+.mat-column-right{
+    text-align: center;
+}
+.demo-button-container {
+    padding-top: 16px;
+    display: inline-block;
+  }
+  
+  .demo-button + .demo-button {
+    margin-left: 8px;
+    display: inline-block;
+  }
+.pagination{
+      display: inline-block;
+      margin-left: 350px;
+  }

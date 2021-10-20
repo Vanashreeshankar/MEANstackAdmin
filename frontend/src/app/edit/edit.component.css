@@ -1,0 +1,33 @@
+.navbar{
+    background-color: rgb(62, 181, 228);
+}
+.container{
+    width: 350px;
+    margin-left:auto;
+    margin-right:auto;  
+    margin-top: 100px;
+}
+.sub-container{
+    
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+.row{
+    margin-top: 20px;
+ 
+}
+input{
+    width: 100%;
+}
+.btn{
+    margin-top: 10px;
+    margin-left:17%;
+    margin-right:17%;
+    
+}
+
+
+
+
+
